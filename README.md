@@ -11,4 +11,4 @@ It passed the following tests to achieve its functionality:
 
 These tests were added in jasmine folder/spec/feedreader.js
 
-To run it, you can download it or clone the repo and open it in your browser.
+To run it, you can download it or clone the repo and open index.html in your browser.
